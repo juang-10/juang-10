@@ -7,7 +7,7 @@ Hello, I'm Juan González, a passionate and dedicated frontend developer special
 - **Programming Languages:** JavaScript (ES6+), TypeScript
 - **Frameworks/Libraries:** React, Redux, React Router, Styled Components
 - **Tools:** Webpack, Babel, NPM, Git, Docker
-- **Testing:** Jest, React Testing Library
+- **Testing:** Jest
 - **Others:** Responsive Design, Web Accessibility, Progressive Web Apps
 
 ## 🌟 Featured Projects
