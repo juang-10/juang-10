@@ -13,7 +13,9 @@ Hello, I'm Juan González, a passionate and dedicated frontend developer special
 ## 🌟 Featured Projects
 Here are some projects I've worked on. Check them out:
 
-- **[To Do Task](https://gentle-frangipane-27beff.netlify.app)**: A sleek and functional to-do list application built with HTML, CSS Y JS. This app allows users to organize daily tasks with features for adding, deleting, and marking tasks as complete, all within an intuitive, user-friendly interface.
+- **[Journal App](https://journal-app-eight-alpha.vercel.app/)**: A comprehensive journal application built with React, Material UI, and Redux. It integrates Firebase for backend services and Google authentication, and uses Cloudinary for image uploads. The app allows users to create, edit, and delete journal entries with ease, providing a seamless and intuitive user experience.
+
+- **[To Do Task](https://gentle-frangipane-27beff.netlify.app)**: A sleek and functional to-do list application built with HTML, CSS, and JS. This app allows users to organize daily tasks with features for adding, deleting, and marking tasks as complete, all within an intuitive, user-friendly interface.
 
 - **[Search Gif](https://gif-expert-app-jdgs.netlify.app)**: An interactive GIF search application using the Giphy API. Built with React, it features a dynamic search function that lets users find and display GIFs based on keywords, enhancing the user experience with instant visual feedback.
 
