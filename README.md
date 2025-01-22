@@ -1,26 +1,49 @@
-# Welcome to My GitHub Profile 👋
+<h2 align="left">Hi 👋! My name is Juan González and I'm a Frontend Developer, from Colombia</h2>
 
-## Who Am I?
-Hello, I'm Juan González, a passionate and dedicated frontend developer specializing in React. I love crafting interactive and dynamic user interfaces that not only fulfill their purpose but also provide a delightful user experience.
+###
 
-## 🛠 Skills
-- **Programming Languages:** JavaScript (ES6+), TypeScript
-- **Frameworks/Libraries:** React, Redux, React Router, Styled Components
-- **Tools:** Webpack, NPM, Git, Docker
-- **Testing:** Jest
-- **Others:** Responsive Design, Web Accessibility, Progressive Web Apps
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juandgonzalezs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juandgonzalezs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-## 🌟 Featured Projects
-Here are some projects I've worked on. Check them out:
+###
 
-- **[Journal App](https://journal-app-eight-alpha.vercel.app/)**: A comprehensive journal application built with React, Material UI, and Redux. It integrates Firebase for backend services and Google authentication, and uses Cloudinary for image uploads. The app allows users to create, edit, and delete journal entries with ease, providing a seamless and intuitive user experience.
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-- **[To Do Task](https://gentle-frangipane-27beff.netlify.app)**: A sleek and functional to-do list application built with HTML, CSS, and JS. This app allows users to organize daily tasks with features for adding, deleting, and marking tasks as complete, all within an intuitive, user-friendly interface.
+###
 
-- **[Search Gif](https://gif-expert-app-jdgs.netlify.app)**: An interactive GIF search application using the Giphy API. Built with React, it features a dynamic search function that lets users find and display GIFs based on keywords, enhancing the user experience with instant visual feedback.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+</div>
 
-- **[Black Jack](https://manoganadora.netlify.app)**: A digital version of the classic Blackjack card game, designed and developed in React. This project includes features such as card shuffling.
+###
 
-## 📫 How to Reach Me
-- **Email:** [juandgonzalezs29@gmail.com](mailto:juandgonzalezs29@gmail.com)
-- **LinkedIn:** [Juan González](https://www.linkedin.com/in/juan-gonzalez-salazar/)
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/juandgonzalezs/juandgonzalezs/output/snake.svg" alt="Snake animation" />
+
+###
