@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Juan González from Colombia.  <br><br>- 🔭 I’m working as a Frontend Developer.  <br>- 📚 I'm currently learning the Angular.  <br>- ⚡ In my free time, I enjoy exploring new web technologies.</p>
+<p align="left">I'm Juan González from Colombia.  <br><br>- 🔭 I’m working as a Frontend Developer.  <br>- 📚 I'm currently learning Angular.  <br>- ⚡ In my free time, I enjoy exploring new web technologies.</p>
 
 ###
 
