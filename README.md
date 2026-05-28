@@ -49,7 +49,7 @@ I truly value teamwork and collaboration.
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/juang-10/juang-10/main/profile/languages.svg" height="150" alt="languages graph" />
+  <img src="https://raw.githubusercontent.com/juang-10/juang-10/main/profile/languages.svg" height="200" alt="languages graph" />
 </div>
 
 ###
