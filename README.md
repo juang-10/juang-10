@@ -49,7 +49,7 @@ I truly value teamwork and collaboration.
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juang-10&locale=en&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://raw.githubusercontent.com/juang-10/juang-10/main/profile/languages.svg" height="150" alt="languages graph" />
 </div>
 
 ###
